@@ -1,0 +1,9 @@
+{
+  "name": "kuerzer",
+  "version": "0.0.0",
+  "description": "A self-hosted URL shortener",
+  "main": "src/index.js",
+  "repository": "git@github.com:NickKaramoff/kuerzer.git",
+  "author": "Nikita Karamov <nick@karamoff.dev>",
+  "license": "MIT"
+}
