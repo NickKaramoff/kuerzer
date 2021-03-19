@@ -1,20 +1,17 @@
 <div align="center">
 <h1>
-<img src="https://raw.githubusercontent.com/kuerzer/brand/master/logo_title/title-with-scissors.png" width="300" alt="kuerzer">
+<img src="./assets/logo_title/title-with-scissors.png" width="300" alt="kuerzer">
 </h1>
-
-<a href="https://github.com/kuerzer/kuerzer/releases"><img src="https://badgen.net/github/release/kuerzer/kuerzer/stable" alt="Latest release"></a>
 </div>
 
-**kuerzer** (`/kʏʁtsɐ/`; German *kürzer* "shorter") is a self-hosted solution
-for URL shortening built using open source and free technology.
+> A self-hosted URL shortener
 
-**kuerzer** is designed to be a great Bitly replacement for individuals and
-small businesses who seek control over their URLs.
+**kuerzer** (`/kʏʁtsɐ/`; German *kürzer* "shorter") is a self-hosted solution for URL shortening built using open source and free technology.
 
-> **kuerzer is being currenly developed. There is no stable version available at
-  this point**
+**kuerzer** is designed to be a great Bit.ly replacement for individuals and small businesses who seek control over their URLs.
 
-## Authors & Maintainers
+> **kuerzer is a WIP. There is no stable version available at this point.**
 
-* Original idea by [Nikita Karamov](https://karamoff.dev)
+## License
+
+MIT © 2021 Nikita Karamov
